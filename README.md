@@ -25,7 +25,7 @@ The end-users are Computer Science enthusiasts and students. Due to limited reso
 
 ### Build and launch the back end
 1. cd back-end
-1. add Your Mongodb Atlas Server in .env 
+1. add your mongodb atlas server in back-end/.env 
 1. npm install
 1. npm start
 
@@ -46,3 +46,23 @@ For everyone who wants to contribute (and send pull requests), please read our [
 ### Main Page
 ![main](documentation/main.png)
 
+### Favorites page
+![favorite](documentation/favorite.png)
+
+### Login page
+![login](documentation/login.png)
+
+### Signup page
+![signup](documentation/signup.png)
+
+### Recovery page
+![recovery](documentation/recovery.png)
+
+### Setting page
+![setting](documentation/setting.png)
+
+### About page
+![about](documentation/about.png)
+
+### Navigation bar
+![nav](documentation/nav.png)
